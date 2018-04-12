@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorControlActivated">@android:color/holo_orange_dark</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <!--主色-->
+    <color name="colorMain">#ff6400</color>
+    <!--背景色-->
+    <color name="colorBackground">#757575</color>
+    <!--分割线-->
+    <color name="colorDivide">#eaeaea</color>
+    <!--辅助色-->
+    <color name="colorBlue">#219dff</color>
+    <!--辅助色-->
+    <color name="colorGreen">#77bd02</color>
+    <!--辅助色-->
+    <color name="colorYellow">#ffb703</color>
+    <!--按钮被选中的颜色-->
+    <color name="colorUnSelected">#7Dff6400</color>
+    <!--头像边框颜色-->
+    <color name="colorAvatarBorder">#e4e4e4</color>
+
+
+    <!--深灰字体颜色-->
+    <color name="colorTextDeep">#ffffff</color>
+    <!--中灰字体颜色-->
+    <color name="colorTextMiddle">#ffffff</color>
+    <!--浅灰字体颜色-->
+    <color name="colorTextSmall">#ffffff</color>
+
+
+    <color name="color_text_gray">#989898</color>
+    <!--灰色失效-->
+    <color name="text_color_invalid">#b3b3b3</color>
+    <color name="btn_green_noraml">#77bd02</color>
+    <!--深灰_提示性文字-->
+</resources>

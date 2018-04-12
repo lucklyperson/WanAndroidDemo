@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Believe</string>
+    <string name="title_home">首页</string>
+    <string name="title_knowledgesystem">知识体系</string>
+    <string name="title_my">我的</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hot_title">Hot</string>
+    <string name="search_title">Search</string>
+    <string name="share">分享</string>
+    <string name="collect">收藏</string>
+    <string name="open_browser">在系统浏览器中打开</string>
+    <string name="username">用户名</string>
+    <string name="pwd">密码</string>
+    <string name="login">登录</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="setting">设置</string>
+    <string name="night_mode">夜间模式</string>
+    <string name="about">关于</string>
+    <string name="not_login_in">未登录</string>
+    <string name="register">注册</string>
+    <string name="pwd_again">再次输入密码</string>
+    <string name="hot_website">热门网站</string>
+    <string name="hot_tag">热门标签</string>
+    <string name="history_search">历史记录</string>
+    <string name="you_should_believe_yourself">You Should Believe Yourself</string>
+    <string name="cancel">取消</string>
+    <string name="service_online">在线客服</string>
+    <string name="github">github</string>
+    <string name="version_number">当前版本1.0</string>
+    <string name="api_introduce">API简介</string>
+    <string name="notify">消息通知</string>
+    <string name="feedback">意见反馈</string>
+    <string name="memory_clear">清除缓存</string>
+    <string name="update_version">更新版本</string>
+    <string name="empty_data">暂无数据,点击重试</string>
+    <string name="message">消息</string>
+</resources>
